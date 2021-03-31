@@ -6,18 +6,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/smoothjs/config/blob/master/LICENSE">
+  <a href="https://github.com/smoothjs/jwt/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
   </a>
   <img src="https://img.shields.io/badge/node-%3E%3D10-brightgreen.svg" alt="node version">
-  <a href="https://github.com/smoothjs/config/actions">
-    <img src="https://github.com/smoothjs/config/workflows/Test/badge.svg" alt="Build Status">
+  <a href="https://github.com/smoothjs/jwt/actions">
+    <img src="https://github.com/smoothjs/jwt/workflows/Test/badge.svg" alt="Build Status">
   </a>
-  <a href="https://github.com/smoothjs/config/commits/master">
-    <img src="https://img.shields.io/github/commit-activity/y/smoothjs/config.svg" alt="Commit activity">
+  <a href="https://github.com/smoothjs/jwt/commits/master">
+    <img src="https://img.shields.io/github/commit-activity/y/smoothjs/jwt.svg" alt="Commit activity">
   </a>
-  <a href="https://github.com/smoothjs/config/commits/master">
-    <img src="https://img.shields.io/github/last-commit/smoothjs/config.svg" alt="Last commit">
+  <a href="https://github.com/smoothjs/jwt/commits/master">
+    <img src="https://img.shields.io/github/last-commit/smoothjs/jwt.svg" alt="Last commit">
   </a>
   <a href="https://img.shields.io/badge/2FA-npm,%20GitHub-green.svg">
     <img src="https://img.shields.io/badge/2FA-npm,%20GitHub-green.svg" alt="2FA">
