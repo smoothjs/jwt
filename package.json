@@ -1,6 +1,6 @@
 {
   "name": "@smoothjs/jwt",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "Authentication with JWT for SmoothJS.",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -43,8 +43,8 @@
     ]
   },
   "dependencies": {
-    "@smoothjs/config": "^0.1.2",
-    "@smoothjs/smooth": "^0.1.2",
+    "@smoothjs/config": "^0.1.0",
+    "@smoothjs/smooth": "^0.1.0",
     "jsonwebtoken": "^8.5.1",
     "typescript-ioc": "^3.2.2"
   },
