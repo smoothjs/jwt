@@ -45,7 +45,7 @@
   "dependencies": {
     "@smoothjs/config": "^0.1.0",
     "@smoothjs/smooth": "^0.1.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "typescript-ioc": "^3.2.2"
   },
   "devDependencies": {
